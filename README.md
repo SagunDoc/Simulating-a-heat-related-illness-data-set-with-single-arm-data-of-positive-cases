@@ -1,6 +1,6 @@
 # 🧪 Heat Illness Synthetic Dataset Simulation
 
-This repository contains a Jupyter Notebook that simulates a synthetic dataset for modeling **heat-related illness (HRI)**, particularly in **military or field settings**. The synthetic data can be used for developing and testing predictive models. It is to be understood with caution that the data is simulated from the original 27 cases of heat related illness and thus introduce bias. 
+This repository contains a Jupyter Notebook that simulates a synthetic dataset for modeling **heat-related illness (HRI)**, particularly in **military or field settings**. The synthetic data can be used for developing and testing predictive models. It is to be understood with caution that the data (both positive and negative for occurence of the heat related illness events) are a simulated ones from the original 27 cases of heat related illness and thus may be biased and should be understood in the very way.
 
 ---
 
